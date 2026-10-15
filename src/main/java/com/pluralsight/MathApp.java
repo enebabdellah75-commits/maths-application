@@ -8,6 +8,12 @@ public static void main(String[] args) {
     int highestsalary= Math.max(15000,17000);
     System.out.println( "The highest salary is" + highestsalary);
 
+    // Question 2:
+    int carprice=5000;
+    int truckprice=7000;
+    int lowestprice= Math.min(5000,7000);
+    System.out.println("The lowest price is" +lowestprice);
+
 
 }
 }
