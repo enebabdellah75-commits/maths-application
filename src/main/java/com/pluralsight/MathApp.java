@@ -14,6 +14,11 @@ public static void main(String[] args) {
     int lowestprice= Math.min(5000,7000);
     System.out.println("The lowest price is" +lowestprice);
 
+    // Question 3:
+    double radius=7.25;
+    double area = Math.PI * Math.pow (radius, 2);
+    System.out.println("The area of the circle is," + area);
+
 
 }
 }
