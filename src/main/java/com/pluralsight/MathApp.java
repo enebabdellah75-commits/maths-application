@@ -62,9 +62,5 @@ public static void main(String[] args) {
     System.out.println("There are " + totalMinutes + " minutes in 24 days.");
     System.out.println("There are " + totalMilliseconds + " milliseconds in 24 days.");
 
-
-
-
-
     }
 }
