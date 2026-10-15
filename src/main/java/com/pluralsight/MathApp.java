@@ -34,9 +34,16 @@ public static void main(String[] args) {
 
     double distance = Math.sqrt(
             Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2)
-    );
+     );
 
     System.out.println("The distance between the points is " + distance);
+
+    // Question 6
+    double negativeNumber = -3.8;
+    double absoluteValue = Math.abs(negativeNumber);
+
+    System.out.println("The absolute value is " + absoluteValue);
+
 
 
 
